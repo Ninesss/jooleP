@@ -1,0 +1,15 @@
+.App {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 2px solid cornflowerblue;
+  height:1040px
+}
+.App .navbar-expand-xl{
+  height: 150px;
+}
+
+.App .navbar-brand {
+  margin-top: 30%;
+  font-weight: bold;
+  font-size: 50px;
+}

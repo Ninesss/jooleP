@@ -1,0 +1,32 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+      height:1020px;
+      background-image: linear-gradient(cornflowerblue,whitesmoke);
+      text-align: center;
+    }
+  
+    .Login h4{
+      font-size: 30px;
+      float: right;
+      margin-right: 5%;
+      color: rgb(99, 99, 99);
+    }
+  
+    .Login form {
+      margin-top: 5%;
+      margin-left: 41%;
+      max-width: 320px;
+    }
+    .Login h1 {
+      color: rgb(44, 58, 136);
+      font-weight: 600;
+      font-size: 80px;
+      margin-top: 8%;
+    }
+    
+    .Login p {
+      color: rgb(99, 99, 99);
+      font-size: 30px;
+    }
+  }

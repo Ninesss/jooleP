@@ -1,0 +1,17 @@
+.Navb {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 1px solid whitesmoke;
+    height: 130px;
+  }
+  .Navb .navbar-expand-xl{
+    height: 150px;
+  }
+  
+  .Navb .navbar-brand {
+    margin-top: 30%;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(59, 72, 143);
+  }
+  
