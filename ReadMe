@@ -1,0 +1,3 @@
+This is the project to make an e-commerce website.
+I wrote a series of APIs using Spring Boot as the backend to communicate with the MySQL database. 
+Using react for the front end, I wrote shopping pages, shopping carts, login pages and product imformation page. And I use Redux for storing the data.
